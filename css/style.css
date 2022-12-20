@@ -1,0 +1,28 @@
+
+
+
+
+
+.cardContainer {
+  margin-bottom: 15px;
+} 
+
+.card {
+    margin: 0 auto;
+}
+
+.card-img-top {
+    height: 500px;
+    width: 400px;
+}
+
+.profilepic {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    object-position: center;
+    object-fit: center;
+    margin-left: 100px;
+    object-fit:fill;
+}
+
